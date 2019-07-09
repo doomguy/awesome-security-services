@@ -60,7 +60,7 @@ Something missing or link broken? Send me a pull request!
 - https://www.metadefender.com/#!/submit-ip
   - Scan an IP address using 12 sources to determine if it has been compromised.
 
-# Open Thrat Exchange (OTX)
+# Open Threat Exchange (OTX)
 - https://otx.alienvault.com
 - https://exchange.xforce.ibmcloud.com/
 - https://developers.facebook.com/products/threat-exchange (closed beta)
