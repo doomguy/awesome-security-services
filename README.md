@@ -41,7 +41,7 @@ Something missing or link broken? Send me a pull request!
 - https://secure2.sophos.com/en-us/support/contact-support.aspx (Files, domaain)
 - https://detux.org/ (Linux binaries)
 ## Sandbox Analysis
-- https://malwr.com
+- https://malwr.com **[Down 2019-07-09]**
   - Based on Cuckoo Sandbox and VirusTotal
 - https://www.hybrid-analysis.com
   - Supporting PE, Office, PDF, APK files and more (e.g. EML).
