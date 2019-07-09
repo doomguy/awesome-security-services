@@ -1,4 +1,4 @@
-# List of online security services and tools
+# Awesome security services and tools
 This is a list of online security services and tools for quick analysis of files, hashes, IPs, domains, etc. 
 
 Something missing or link broken? Send me a pull request!
