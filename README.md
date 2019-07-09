@@ -4,6 +4,8 @@ This is a list of online security services and tools for quick analysis of files
 Something missing or link broken? Send me a pull request!
 
 # General Tools
+- https://gchq.github.io/CyberChef/
+  - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - https://hackertarget.com
   - Free Online Net-, DNS-, IP- & Web-Tools. Chrome extension available.
 - https://www.base64decode.org
