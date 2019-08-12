@@ -35,7 +35,7 @@ Something missing or link broken? Send me a pull request!
 ## Scan
 - https://www.virustotal.com/#file (Files, hash, URL, domain, IP address)
 - https://virusscan.jotti.org (Files)
-- http://www.virscan.org (Files) **[Down 2019-07-09]**
+- http://www.virscan.org (Files)
 - https://www.metadefender.com/#!/scan-file (Files, hash, IP address)
 - https://www.f-secure.com/en/web/labs_global/submit-a-sample (Files)
 - https://secure2.sophos.com/en-us/support/contact-support.aspx (Files, domaain)
