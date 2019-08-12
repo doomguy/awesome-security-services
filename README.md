@@ -60,7 +60,7 @@ Something missing or link broken? Send me a pull request!
 
 ## Report only
 - https://support.google.com/mail/contact/abuse
- - GMail abuse form
+  - GMail abuse form
  
 # IP-Addresses
 - https://www.metadefender.com/#!/submit-ip
