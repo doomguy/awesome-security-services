@@ -28,7 +28,7 @@ Something missing or link broken? Send me a pull request!
   - URL Analyzer is based on Joe Sandbox Desktop which performs deep malware analysis.
 - https://www.scumware.org/add_url.scumware
   - Add URL containing possible threat to the database. All submitted URLs are scanned and then posted on this website with threat information.
-## Report Only
+## Report only
 - https://www.google.com/webmasters/tools/spamreport?hl=en
 
 # Malicious Files
@@ -54,10 +54,14 @@ Something missing or link broken? Send me a pull request!
 - http://akana.mobiseclab.org/
   - APKs
   
-# SPAM
+# SPAM / Phishing
 - https://www.opswat.com/metadefender-email-security-cloud-mesc-faq
   - Forward suspicious emails to sanitize@metadefender.com for malware scanning and data sanitization.
 
+## Report only
+- https://support.google.com/mail/contact/abuse
+ - GMail abuse form
+ 
 # IP-Addresses
 - https://www.metadefender.com/#!/submit-ip
   - Scan an IP address using 12 sources to determine if it has been compromised.
