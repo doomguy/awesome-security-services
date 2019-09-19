@@ -7,7 +7,7 @@ Something missing or link broken? Send me a pull request!
 - https://gchq.github.io/CyberChef/
   - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - https://hackertarget.com
-  - Free Online Net-, DNS-, IP- & Web-Tools. Chrome extension available.
+  - Free Online Net-, DNS-, IP- & Web-Tools. Chrome extension available
 - https://www.base64decode.org
 - https://3v4l.org
   - Deobfuscate PHP-Code (Example: https://3v4l.org/EaAbU#output)
@@ -17,6 +17,8 @@ Something missing or link broken? Send me a pull request!
   - IceBuddha is an open-source (MIT license) hex viewer and generic binary file parser that runs in the browser.
 - http://icebuddha.com/slopfinder.htm
   - Statically analyzes Windows executable files to look for use of DEP and ASLR
+- https://onlinedisassembler.com/odaweb/
+  - Disassemble On Demand - Explore executables by dissecting its sections, strings, symbols, raw hex and machine level instructions
 
 # Malicious Domains/URLs
 ## Analyse
