@@ -32,7 +32,7 @@ Something missing or link broken? Send me a pull request!
 - https://www.scumware.org/add_url.scumware
   - Add URL containing possible threat to the database. All submitted URLs are scanned and then posted on this website with threat information.
 ## Report only
-- https://www.google.com/webmasters/tools/spamreport?hl=en
+- https://safebrowsing.google.com/safebrowsing/report_general/
 
 # Malicious Files
 ## Scan
