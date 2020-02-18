@@ -22,7 +22,8 @@ Something missing or link broken? Send me a pull request!
 
 # Malicious Domains/URLs
 ## Analyse
-- https://www.virustotal.com/#url
+- https://urlscan.io
+- https://www.virustotal.com/gui/home/url
 - https://www.google.com/transparencyreport/safebrowsing/diagnostic/index.html
 - http://urlquery.net
   - urlQuery.net is a service for detecting and analyzing web-based malware. It provides detailed information about the activities a browser does while visiting a site and presents the information for further analysis. 
