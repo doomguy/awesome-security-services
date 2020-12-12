@@ -35,6 +35,7 @@ Something missing or link broken? Send me a pull request!
   - URL Analyzer is based on Joe Sandbox Desktop which performs deep malware analysis.
 - https://www.scumware.org/add_url.scumware
   - Add URL containing possible threat to the database. All submitted URLs are scanned and then posted on this website with threat information.
+- https://www.fortiguard.com/
 ## Report only
 - https://safebrowsing.google.com/safebrowsing/report_general/
 
