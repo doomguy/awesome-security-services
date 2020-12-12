@@ -11,10 +11,14 @@ Something missing or link broken? Send me a pull request!
 - https://www.base64decode.org
 - https://3v4l.org
   - Deobfuscate PHP-Code (Example: https://3v4l.org/EaAbU#output)
+- http://www.unphp.net/
+  - UnPHP is a free service for analyzing obfuscated and malicious PHP code.
 - http://deobfuscatejavascript.com
   - Deobfuscate JavaScript
+- https://lelinhtinh.github.io/de4js/
+  - Deobfuscate JavaScript
 - http://icebuddha.com
-  - IceBuddha is an open-source (MIT license) hex viewer and generic binary file parser that runs in the browser.
+  - IceBuddha is a hex viewer and generic binary file parser that runs in the browser.
 - http://icebuddha.com/slopfinder.htm
   - Statically analyzes Windows executable files to look for use of DEP and ASLR
 - https://onlinedisassembler.com/odaweb/
@@ -56,8 +60,9 @@ Something missing or link broken? Send me a pull request!
   - DOC(X)(M), XLS(X)(M), PPT(X)(M), RTF and PDF
 - https://www.apk-analyzer.net
   - APKs
-- http://akana.mobiseclab.org/
+- http://akana.mobiseclab.org
   - APKs
+- https://any.run
   
 # SPAM / Phishing
 - https://www.opswat.com/metadefender-email-security-cloud-mesc-faq
