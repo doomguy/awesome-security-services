@@ -61,7 +61,7 @@ Something missing or link broken? Send me a pull request!
   - DOC(X)(M), XLS(X)(M), PPT(X)(M), RTF and PDF
 - https://www.apk-analyzer.net
   - APKs
-- http://akana.mobiseclab.org
+- http://akana.mobiseclab.org **[Down 2020-12-12]**
   - APKs
 - https://any.run
   
