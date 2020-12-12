@@ -33,9 +33,9 @@ Something missing or link broken? Send me a pull request!
   - urlQuery.net is a service for detecting and analyzing web-based malware. It provides detailed information about the activities a browser does while visiting a site and presents the information for further analysis. 
 - https://www.url-analyzer.net
   - URL Analyzer is based on Joe Sandbox Desktop which performs deep malware analysis.
-- https://www.scumware.org/add_url.scumware
-  - Add URL containing possible threat to the database. All submitted URLs are scanned and then posted on this website with threat information.
+- https://www.scumware.org/search.php
 - https://www.fortiguard.com/
+
 ## Report only
 - https://safebrowsing.google.com/safebrowsing/report_general/
 
