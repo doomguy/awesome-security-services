@@ -4,7 +4,7 @@ This is a list of online security services and tools for quick analysis and repo
 Something missing or link broken? Send me a pull request!
 
 # General Tools
-- https://gchq.github.io/CyberChef/
+- https://gchq.github.io/CyberChef/ ⭐️
   - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - https://hackertarget.com
   - Free Online Net-, DNS-, IP- & Web-Tools. Chrome extension available
@@ -26,12 +26,12 @@ Something missing or link broken? Send me a pull request!
 
 # Malicious Domains/URLs
 ## Analyse
-- https://urlscan.io
+- https://urlscan.io ⭐️
 - https://www.virustotal.com/gui/home/url
 - https://www.google.com/transparencyreport/safebrowsing/diagnostic/index.html
-- http://urlquery.net
+- http://urlquery.net **[Down 2020-12-13]**
   - urlQuery.net is a service for detecting and analyzing web-based malware. It provides detailed information about the activities a browser does while visiting a site and presents the information for further analysis. 
-- https://www.url-analyzer.net
+- https://www.joesandbox.com/#windows
   - URL Analyzer is based on Joe Sandbox Desktop which performs deep malware analysis.
 - https://www.scumware.org/search.php
 - https://www.fortiguard.com/
@@ -47,11 +47,12 @@ Something missing or link broken? Send me a pull request!
 - https://www.metadefender.com/#!/scan-file (Files, hash, IP address)
 - https://www.f-secure.com/en/web/labs_global/submit-a-sample (Files)
 - https://secure2.sophos.com/en-us/support/contact-support.aspx (Files, domaain)
-- https://detux.org/ (Linux binaries)
+- https://detux.org/ (Linux binaries) **[Down 2020-12-13]**
+
 ## Sandbox Analysis
-- https://cuckoo.cert.ee
+- https://cuckoo.cert.ee ⭐️
   - Based on Cuckoo Sandbox
-- https://malwr.com **[Down 2019-07-09 - 2020-09-07]**
+- https://malwr.com **[Down 2019-07-09 - 2020-09-07 - 2020-12-13]**
   - Based on Cuckoo Sandbox and VirusTotal
 - https://www.hybrid-analysis.com
   - Supporting PE, Office, PDF, APK files and more (e.g. EML).
