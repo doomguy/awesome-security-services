@@ -65,6 +65,7 @@ Something missing or link broken? Send me a pull request!
 - http://akana.mobiseclab.org **[Down 2020-12-12]**
   - APKs
 - https://any.run
+  - Interactive Sandbox
   
 # SPAM / Phishing
 - https://www.opswat.com/metadefender-email-security-cloud-mesc-faq
